@@ -1,0 +1,9 @@
+<archetype>
+  <id>Task_1_Selenium</id>
+  <sources>
+    <source>src/main/java/Task1_1.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
